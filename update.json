@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.2",
   "dataVersion": "2026.10.19",
   "title": "Cập nhật bộ đề thi và tối ưu chấm điểm",
   "releaseDate": "19/10/2026",
@@ -9,7 +9,7 @@
     {
       "name": "HiuMOS_Teacher.exe",
       "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/HiuMOS_Teacher.exe",
-      "version": "1.0.5",
+      "version": "1.0.2",
       "size": 841216,
       "md5": "56417a9c0052633a8c4172a312707da0"
     },
