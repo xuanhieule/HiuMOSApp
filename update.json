@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.2",
   "dataVersion": "2026.10.20",
   "title": "Cập nhật bộ đề thi và tối ưu chấm điểm",
   "releaseDate": "20/10/2026",
@@ -7,53 +7,46 @@
   "mandatory": false,
   "files": [
     {
-      "name": "HiuMOS_Student.exe",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/HiuMOS_Student.exe",
-      "version": "1.0.4",
-      "size": 788480,
-      "md5": "506fdec1eaba50de40ccb9361b18477a"
-    },
-    {
       "name": "HiuMOS_Teacher.exe",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/download/v1.0.3/HiuMOS_Teacher.exe",
-      "version": "1.0.4",
+      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/HiuMOS_Teacher.exe",
+      "version": "1.0.2",
       "size": 854016,
-      "md5": "da85738358ac1a29aa56b6301f44698a"
+      "md5": "8dbac0eb1d5183d7a181e77d0096a260"
     },
     {
       "name": "config.dat",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/download/v1.0.3/config.dat",
+      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/config.dat",
       "version": "2026.10.20",
       "size": 72927772,
-      "md5": "56f6e88fcb5fd10d677826ac5bc49f04"
+      "md5": "e1027de793ad88aec1bfd808cd448352"
     },
     {
       "name": "config_word.dat",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/download/v1.0.3/config_word.dat",
+      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/config_word.dat",
       "version": "2026.10.20",
       "size": 6761900,
-      "md5": "0c8169df41b2d61683f2ee03f4c2b7f4"
+      "md5": "4489465f43ade78e0faf627d19d0a07b"
     },
     {
       "name": "config_excel.dat",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/download/v1.0.3/config_excel.dat",
+      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/config_excel.dat",
       "version": "2026.10.20",
       "size": 453052,
-      "md5": "079b338f92264b3c8e6c744c8e315b19"
+      "md5": "80a7e54c4e9eb372fc3b35bae94f0c4a"
     },
     {
       "name": "config_ppt.dat",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/download/v1.0.3/config_ppt.dat",
+      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/config_ppt.dat",
       "version": "2026.10.20",
       "size": 50216908,
-      "md5": "e3e845442ed08f204e33bcf9bf766c0e"
+      "md5": "ee671a3a0ff90a90d7df47d7af1f1428"
     },
     {
       "name": "config_images.dat",
-      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/download/v1.0.3/config_images.dat",
+      "url": "https://github.com/xuanhieule/HiuMOSApp/releases/latest/download/config_images.dat",
       "version": "2026.10.20",
       "size": 15496092,
-      "md5": "6d7ff7162c282ba82751a4dd3d6b9be2"
+      "md5": "4bea275b05ca1d5d771ccda8a486d297"
     }
   ]
 }
